@@ -1,0 +1,7 @@
+parameters:
+#    bangpound_twitter_rest.example.class: Bangpound\Twitter\RestBundle\Example
+
+services:
+#    bangpound_twitter_rest.example:
+#        class: %bangpound_twitter_rest.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

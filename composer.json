@@ -1,0 +1,21 @@
+{
+    "name": "bangpound/twitter-rest-bundle",
+    "description": "Tweet REST controllers",
+    "license" : "MIT",
+    "authors": [
+        {
+            "name": "Benjamin Doherty",
+            "email": "bjd@bangpound.org"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Bangpound\\Twitter\\RestBundle\\": ""
+        }
+    },
+    "require": {
+        "friendsofsymfony/rest-bundle": "dev-master",
+        "bangpound/twitter-data-bundle": "dev-master"
+    },
+    "target-dir": "Bangpound/Twitter/RestBundle"
+}

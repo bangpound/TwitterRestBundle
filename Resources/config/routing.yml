@@ -1,0 +1,3 @@
+bangpound_twitter_rest_tweet:
+    type:     rest
+    resource: Bangpound\Twitter\RestBundle\Controller\TweetController
